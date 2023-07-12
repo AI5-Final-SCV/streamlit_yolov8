@@ -1,0 +1,8 @@
+ultralytics
+streamlit
+numpy
+opencv-python
+opencv-python-headless
+Pillow
+streamlit-modal
+yt_dlp
